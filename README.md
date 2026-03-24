@@ -16,12 +16,16 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
   <img src="https://img.shields.io/badge/Active%20Directory-003087?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/TCP%2FIP%20%7C%20DNS%20%7C%20VLANs-2C3E50?style=for-the-badge&logo=cisco&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Freshdesk-25C16F?style=for-the-badge&logo=freshdesk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GPON%20%7C%20Fibre-00A86B?style=for-the-badge&logo=openwrt&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ruijie%20Reyee-E3000?style=for-the-badge&logo=router&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Freshdesk-25C16F?style=for-the-badge&logo=freshdesk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AnyDesk-EF0000?style=for-the-badge&logo=anydesk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Remote%20Desktop-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TeamViewer-0E8EE9?style=for-the-badge&logo=teamviewer&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ubiquiti%20UniFi-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white"/>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
