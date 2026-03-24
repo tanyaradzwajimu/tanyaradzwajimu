@@ -17,11 +17,13 @@
   <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
   <img src="https://img.shields.io/badge/Active%20Directory-003087?style=for-the-badge&logo=microsoft&logoColor=white"/>
   <img src="https://img.shields.io/badge/TCP%2FIP%20%7C%20DNS%20%7C%20VLANs-2C3E50?style=for-the-badge&logo=cisco&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Freshdesk-25C16F?style=for-the-badge&logo=freshdesk&logoColor=white"/>
   <img src="https://img.shields.io/badge/GPON%20%7C%20Fibre-00A86B?style=for-the-badge&logo=openwrt&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Freshdesk-25C16F?style=for-the-badge&logo=freshdesk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ruijie%20Reyee-E3000?style=for-the-badge&logo=router&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ubiquiti%20UniFi-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 </p>
 
