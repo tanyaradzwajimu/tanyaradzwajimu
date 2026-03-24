@@ -22,9 +22,11 @@
   <img src="https://img.shields.io/badge/Ruijie%20Reyee-E3000?style=for-the-badge&logo=router&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ubiquiti%20UniFi-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white"/>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Starlink-000000?style=for-the-badge&logo=spacex&logoColor=white"/>
 </p>
 
 ---
