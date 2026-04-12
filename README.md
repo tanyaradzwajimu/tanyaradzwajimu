@@ -52,12 +52,10 @@
 > More projects coming as I build out my cloud and automation skills.
 
 ---
-
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanyaradzwajimu&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanyaradzwajimu&layout=compact&theme=default&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=tanyaradzwajimu&theme=default&hide_border=true" height="150"/>
 </p>
 
 ---
